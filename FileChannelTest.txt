@@ -1,3 +1,4 @@
 hello Chris!
 hello world!
 let's go!
+您好！中国！哈啊哈
